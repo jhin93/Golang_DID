@@ -9,7 +9,7 @@ import (
 
 // Guide
 // ./usercli  --help
-// ./usercli submit  --help
+// ./usercli submit --help
 
 // 실행방법
 // 1. Run 'go build -o `filename` main.go'
